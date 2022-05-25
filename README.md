@@ -10,7 +10,7 @@ Feature Scaling is a technique to standardize the independent features present i
 - pandas
 - matplotlib
 
-## Imports
+# Imports
 
 ```python
 import pandas as pd
